@@ -13,3 +13,4 @@ Olá, este é um bot de discord que foi feito para ajudar a comunidade de Fortni
 ### Dependências:
 
 - [Discord JDA](https://jda.wiki/)
+- [Fornite API](https://fortnite-api.com/)
